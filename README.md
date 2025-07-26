@@ -19,6 +19,7 @@ This enhancement takes the original Binary Search Tree program, which is designe
 .csv file and push them into a binary search tree data structure (this makes search time complexity O(log n)).
 The enhancement performed allows a user to create a custom course from the menu options as well as delete a course
 from the Binary Search Tree list.
+<br>
 [Binary Search Tree Enhancement One](https://github.com/AnthonyBaratti/EnhancementOne)
 
 ## ENHANCEMENT TWO
@@ -26,4 +27,5 @@ This enhancement takes the Binary Search Tree one step further. The added user f
 destabilize the tree (making it unbalanced, or "heavy"), degrading the search time complexity from 
 O(log n) to O(n). Creating self-balancing algorithms helps maintain the search time complexity at O(log n)
 while deletes and inserts are being performed.
+<br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
