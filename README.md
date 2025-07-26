@@ -1,5 +1,5 @@
 # e-Portfolio for Anthony Baratti
-https://anthonybaratti.github.io/
+[View GitHub Page](https://anthonybaratti.github.io/)
 ## Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
 The artifacts chosen must be enhanced to meet: 
