@@ -29,3 +29,11 @@ O(log n) to O(n). Creating self-balancing algorithms helps maintain the search t
 while deletes and inserts are being performed.
 <br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
+
+##ENHANCEMENT THREE
+This enhancement takes a user dashboard for filtering animal types and displaying them in a data table with a selectable  
+row. The filtered data is also displayed in a pie chart as well as a geo-location interactive map. The original artifact  
+uses CRUD operations with MongoDB via two python scripts, one for the CRUD operations and one for the Dash layout. The  
+enhancement will convert the database from online MongoDB to offline local storage using SQLite 3.
+<br>
+[Animal Shelter Dashboard Enhancement Three](https://github.com/AnthonyBaratti/EnhancementThree)
