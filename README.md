@@ -30,7 +30,7 @@ while deletes and inserts are being performed.
 <br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
 
-##ENHANCEMENT THREE
+## ENHANCEMENT THREE
 This enhancement takes a user dashboard for filtering animal types and displaying them in a data table with a selectable  
 row. The filtered data is also displayed in a pie chart as well as a geo-location interactive map. The original artifact  
 uses CRUD operations with MongoDB via two python scripts, one for the CRUD operations and one for the Dash layout. The  
