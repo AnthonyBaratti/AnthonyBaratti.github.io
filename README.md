@@ -25,7 +25,7 @@ The enhancement performed allows a user to create a custom course from the menu 
 from the Binary Search Tree list.
 <br>
 [Binary Search Tree Enhancement One](https://github.com/AnthonyBaratti/EnhancementOne)
-<br>
+<br> <br>
 ====Enhancement One Contents==== <br>
 Original BinarySearchTree C++ Program <br>
 Enhanced BinarySearchTree C++ Program with user functionality <br>
@@ -37,7 +37,7 @@ This enhancement takes the Binary Search Tree one step further. The added user f
 destabilize the tree (making it unbalanced, or "heavy"), degrading the search time complexity from 
 O(log n) to O(n). Creating self-balancing algorithms helps maintain the search time complexity at O(log n)
 while deletes and inserts are being performed.
-<br>
+<br> <br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
 <br>
 ====Enhancement Two Contents==== <br>
