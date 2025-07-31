@@ -17,6 +17,7 @@ It will also assess the code for vulnerabilities or flaws, reviewing concepts su
 variables/naming conventions, arithmetic operations, loops, branches, and defensive/secure programming.  
 Then the enhancements are explained, forming a relationship between the skills used and the outcomes achieved for the course  
 by the artifact enhancements.
+<br>
 [Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)
 
 ## ENHANCEMENT ONE
