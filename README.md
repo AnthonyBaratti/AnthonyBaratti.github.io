@@ -26,7 +26,7 @@ from the Binary Search Tree list.
 <br>
 [Binary Search Tree Enhancement One](https://github.com/AnthonyBaratti/EnhancementOne)
 <br>
-Contents: <br>
+====Enhancement One Contents==== <br>
 Original BinarySearchTree C++ Program <br>
 Enhanced BinarySearchTree C++ Program with user functionality <br>
 README file <br>
@@ -40,7 +40,7 @@ while deletes and inserts are being performed.
 <br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
 <br>
-Contents: <br>
+====Enhancement Two Contents==== <br>
 Original BinarySearchTree C++ Program <br>
 Enhanced BinarySearchTree C++ Program with self-balancing algorithms <br>
 README file <br>
