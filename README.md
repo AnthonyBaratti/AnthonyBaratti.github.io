@@ -12,6 +12,11 @@ Two artifacts were chosen to perform these enhancements:
 2. Animal Shelter Dashboard using MongoDB and Python script conversion to SQLite
 
 ## Code Review for CS-499 Capstone Artifact Enhancements
+The code review will explain the purpose of both original artifacts, showcasing the code and its functionality.  
+It will also assess the code for vulnerabilities or flaws, reviewing concepts such as structure, documentation/readability,  
+variables/naming conventions, arithmetic operations, loops, branches, and defensive/secure programming.  
+Then the enhancements are explained, forming a relationship between the skills used and the outcomes achieved for the course  
+by the artifact enhancements.
 [Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)
 
 ## ENHANCEMENT ONE
