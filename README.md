@@ -25,6 +25,12 @@ The enhancement performed allows a user to create a custom course from the menu 
 from the Binary Search Tree list.
 <br>
 [Binary Search Tree Enhancement One](https://github.com/AnthonyBaratti/EnhancementOne)
+<br>
+Contents: <br>
+Original BinarySearchTree C++ Program <br>
+Enhanced BinarySearchTree C++ Program with user functionality <br>
+README file <br>
+Artifact Enhancement Narrative
 
 ## ENHANCEMENT TWO
 This enhancement takes the Binary Search Tree one step further. The added user functionality could
@@ -33,6 +39,12 @@ O(log n) to O(n). Creating self-balancing algorithms helps maintain the search t
 while deletes and inserts are being performed.
 <br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
+<br>
+Contents: <br>
+Original BinarySearchTree C++ Program <br>
+Enhanced BinarySearchTree C++ Program with self-balancing algorithms <br>
+README file <br>
+Artifact Enhancement Narrative
 
 ## ENHANCEMENT THREE
 This enhancement takes a user dashboard for filtering animal types and displaying them in a data table with a selectable  
