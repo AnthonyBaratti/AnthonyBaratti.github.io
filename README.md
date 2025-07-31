@@ -39,7 +39,7 @@ O(log n) to O(n). Creating self-balancing algorithms helps maintain the search t
 while deletes and inserts are being performed.
 <br> <br>
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
-<br>
+<br><br>
 ====Enhancement Two Contents==== <br>
 Original BinarySearchTree C++ Program <br>
 Enhanced BinarySearchTree C++ Program with self-balancing algorithms <br>
