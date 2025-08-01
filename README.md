@@ -23,7 +23,7 @@ This enhancement takes the original Binary Search Tree program, which is designe
 .csv file and push them into a binary search tree data structure (this makes search time complexity O(log n)).
 The enhancement performed allows a user to create a custom course from the menu options as well as delete a course
 from the Binary Search Tree list.
-<br>
+<br> <br>
 [Binary Search Tree Enhancement One](https://github.com/AnthonyBaratti/EnhancementOne)
 <br> <br>
 ====Enhancement One Contents==== <br>
@@ -51,5 +51,11 @@ This enhancement takes a user dashboard for filtering animal types and displayin
 row. The filtered data is also displayed in a pie chart as well as a geo-location interactive map. The original artifact  
 uses CRUD operations with MongoDB via two python scripts, one for the CRUD operations and one for the Dash layout. The  
 enhancement will convert the database from online MongoDB to offline local storage using SQLite 3.
-<br>
+<br> <br>
 [Animal Shelter Dashboard Enhancement Three](https://github.com/AnthonyBaratti/EnhancementThree)
+<br> <br>
+====Enhancement Three Contents==== <br>
+Original AnimalShelterArtifact Python Program using MongoDB <br>
+Enhanced AnimalShelterArtifact Pythong Program using SQLite3 with main.exe <br>
+README file<br>
+Artifact Enhancement Narrative
