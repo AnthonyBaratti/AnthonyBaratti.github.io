@@ -27,10 +27,10 @@ from the Binary Search Tree list.
 [Binary Search Tree Enhancement One](https://github.com/AnthonyBaratti/EnhancementOne)
 <br> <br>
 ====Enhancement One Contents==== <br>
-Original BinarySearchTree C++ Program <br>
-Enhanced BinarySearchTree C++ Program with user functionality <br>
-README file <br>
-Artifact Enhancement Narrative
+- Original BinarySearchTree C++ Program <br>
+- Enhanced BinarySearchTree C++ Program with user functionality <br>
+- README file <br>
+- Artifact Enhancement Narrative
 
 ## ENHANCEMENT TWO
 This enhancement takes the Binary Search Tree one step further. The added user functionality could
@@ -41,10 +41,10 @@ while deletes and inserts are being performed.
 [Binary Search Tree Enhancement Two](https://github.com/AnthonyBaratti/EnhancementTwo)
 <br><br>
 ====Enhancement Two Contents==== <br>
-Original BinarySearchTree C++ Program <br>
-Enhanced BinarySearchTree C++ Program with self-balancing algorithms <br>
-README file <br>
-Artifact Enhancement Narrative
+- Original BinarySearchTree C++ Program <br>
+- Enhanced BinarySearchTree C++ Program with self-balancing algorithms <br>
+- README file <br>
+- Artifact Enhancement Narrative
 
 ## ENHANCEMENT THREE
 This enhancement takes a user dashboard for filtering animal types and displaying them in a data table with a selectable  
@@ -55,8 +55,8 @@ enhancement will convert the database from online MongoDB to offline local stora
 [Animal Shelter Dashboard Enhancement Three](https://github.com/AnthonyBaratti/EnhancementThree)
 <br> <br>
 ====Enhancement Three Contents==== <br>
-Original AnimalShelterArtifact Python Program using MongoDB <br>
-Enhanced AnimalShelterArtifact Pythong Program using SQLite3 with main.exe <br>
-README file<br>
-Artifact Enhancement Narrative<br>
-Grazioso Salvare Application v1.0 (dist.zip)
+- Original AnimalShelterArtifact Python Program using MongoDB <br>
+- Enhanced AnimalShelterArtifact Pythong Program using SQLite3 with main.exe <br>
+- README file<br>
+- Artifact Enhancement Narrative<br>
+- Grazioso Salvare Application v1.0 (dist.zip)
