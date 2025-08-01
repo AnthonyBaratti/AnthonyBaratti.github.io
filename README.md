@@ -58,5 +58,5 @@ enhancement will convert the database from online MongoDB to offline local stora
 Original AnimalShelterArtifact Python Program using MongoDB <br>
 Enhanced AnimalShelterArtifact Pythong Program using SQLite3 with main.exe <br>
 README file<br>
-Artifact Enhancement Narrative
+Artifact Enhancement Narrative<br>
 Grazioso Salvare Application v1.0 (dist.zip)
