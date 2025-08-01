@@ -15,7 +15,7 @@ Two artifacts were chosen to perform these enhancements:
 The code review will explain the purpose of both original artifacts, showcasing the code and its functionality.  
 It will also assess the code for vulnerabilities or flaws, reviewing concepts such as structure, documentation/readability, variables/naming conventions, arithmetic operations, loops, branches, and defensive/secure programming.  
 Then the enhancements are explained, forming a relationship between the skills used and the outcomes achieved for the course by the artifact enhancements.
-<br>
+<br><br>
 [Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)
 
 ## ENHANCEMENT ONE
@@ -59,3 +59,4 @@ Original AnimalShelterArtifact Python Program using MongoDB <br>
 Enhanced AnimalShelterArtifact Pythong Program using SQLite3 with main.exe <br>
 README file<br>
 Artifact Enhancement Narrative
+Grazioso Salvare Application v1.0 (dist.zip)
