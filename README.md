@@ -1,7 +1,7 @@
 # e-Portfolio for Anthony Baratti
 ### Table of Contents
 -[View GitHub Page](https://anthonybaratti.github.io/)<br>
--[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)<br>
+-[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](#code-review-for-cs-499-capstone-artifact-enhancements)<br>
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
 -[Enhancement Three](#enhancement-three)<br>
