@@ -1,9 +1,10 @@
 # e-Portfolio for Anthony Baratti
 ### Table of Contents
-#### Code Review Video
-[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)<br>
-[Enhancement One](#enhancement-one)
-[View GitHub Page](https://anthonybaratti.github.io/)
+-[View GitHub Page](https://anthonybaratti.github.io/)<br>
+-[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)<br>
+-[Enhancement One](#enhancement-one)<br>
+-[Enhancement Two](#enhancement-two)<br>
+-[Enhancement Three](#enhancement-three)<br>
 ## Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
 The artifacts chosen must be enhanced to meet: 
