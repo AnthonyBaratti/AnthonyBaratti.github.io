@@ -2,6 +2,7 @@
 ### Table of Contents
 #### Code Review Video
 [Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)<br>
+[Enhancement One](#enhancement-one)
 [View GitHub Page](https://anthonybaratti.github.io/)
 ## Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
