@@ -1,4 +1,6 @@
 # e-Portfolio for Anthony Baratti
+### Table of Contents
+[Project Code Review Video](codereviewvideo)
 [View GitHub Page](https://anthonybaratti.github.io/)
 ## Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
@@ -16,6 +18,7 @@ The code review will explain the purpose of both original artifacts, showcasing 
 It will also assess the code for vulnerabilities or flaws, reviewing concepts such as structure, documentation/readability, variables/naming conventions, arithmetic operations, loops, branches, and defensive/secure programming.  
 Then the enhancements are explained, forming a relationship between the skills used and the outcomes achieved for the course by the artifact enhancements.
 <br><br>
+#### Code Review Video
 [Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)
 
 ## ENHANCEMENT ONE
