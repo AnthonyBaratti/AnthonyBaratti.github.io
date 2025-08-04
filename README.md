@@ -1,6 +1,6 @@
 # e-Portfolio for Anthony Baratti
 ### Table of Contents
-[Project Code Review Video](codereviewvideo)
+[Project Code Review Video](#codereviewvideo)
 [View GitHub Page](https://anthonybaratti.github.io/)
 ## Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
