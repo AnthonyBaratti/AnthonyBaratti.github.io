@@ -1,4 +1,4 @@
-# e-Portfolio for Anthony Baratti
+# CS-499 Computer Science Capstone Project SNHU
 ### Table of Contents
 -[View GitHub Page](https://anthonybaratti.github.io/)<br>
 -[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](#code-review-for-cs-499-capstone-artifact-enhancements)<br>
