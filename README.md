@@ -59,7 +59,7 @@ Then the enhancements are explained, forming a relationship between the skills u
 <br><br>
 [Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](https://www.youtube.com/embed/KDOPncTitjU)
 
-### ENHANCEMENT ONE #### Software Engineering & Design
+### ENHANCEMENT ONE - <small> Software Engineering & Design </small>
 This enhancement takes the original Binary Search Tree program, which is designed to load courses from a 
 .csv file and push them into a binary search tree data structure (this makes search time complexity O(log n)).
 The enhancement performed allows a user to create a custom course from the menu options as well as delete a course
