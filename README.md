@@ -1,5 +1,5 @@
 # e-Portfolio - Anthony Baratti
-====Contents====
+====Contents====<br>
 [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
 
 ## CS-499 Computer Science Capstone Project SNHU
