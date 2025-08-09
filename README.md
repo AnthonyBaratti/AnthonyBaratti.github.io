@@ -13,7 +13,7 @@
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
 -[Enhancement Three](#enhancement-three)<br>
-[Back to Top](#e-portfolio-anthony-baratti)
+-[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
 The artifacts chosen must be enhanced to meet: 
@@ -83,7 +83,7 @@ TODO:
 - [ ] Add C&E trends to github page as a project
 
 [Artificial Intelligence Project](https://github.com/AnthonyBaratti/CS-370-Current-Emerging-Trends-in-CS/tree/main)<br>
-[Back to Top](#e-portfolio-anthony-baratti)
+[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-360 Mobile Architecture and Programming
 TODO:
@@ -93,7 +93,7 @@ TODO:
 - [ ] Add Mobile A&P to github page as a project
 
 [Mobile Architecture Project](https://github.com/AnthonyBaratti/CS-360-Mobile-Architecture-Programming)<br>
-[Back to Top](#e-portfolio-anthony-baratti)
+[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-350 Emerging Systems Architecture
 TODO:
@@ -103,7 +103,7 @@ TODO:
 - [ ] Add emerging systems to github page as a project
 
 [Micro-Controller Project](https://github.com/AnthonyBaratti/CS-350-Emerging-Systems-Architecture)<br>
-[Back to Top](#e-portfolio-anthony-baratti)
+[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-320 Software Testing
 TODO:
@@ -113,5 +113,5 @@ TODO:
 - [ ] Add software testing to github page as a project
 
 [Software Testing Project](https://github.com/AnthonyBaratti/CS-320-Software-Testing)<br>
-[Back to Top](#e-portfolio-anthony-baratti)
+[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
