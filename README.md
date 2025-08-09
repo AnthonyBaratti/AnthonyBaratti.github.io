@@ -12,7 +12,7 @@
 Insert professional assessment here
 
 ## CS-499 Computer Science Capstone Project SNHU
-### Table of Contents
+### Capstone Table of Contents
 -[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](#code-review-for-cs-499-capstone-artifact-enhancements)<br>
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
