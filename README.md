@@ -12,7 +12,7 @@
 -[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](#code-review-for-cs-499-capstone-artifact-enhancements)<br>
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
--[Enhancement Three](#enhancement-three)
+-[Enhancement Three](#enhancement-three)<br>
 [Back to Top](#e-portfolio-anthony-baratti)
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
