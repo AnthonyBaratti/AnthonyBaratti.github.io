@@ -7,6 +7,10 @@
 - [CS-350 Emerging Systems Architecture](#cs-350-emerging-systems-architecture)
 - [CS-320 Software Testing](#cs-320-software-testing)
 
+<br><br>
+## Professional Assessment
+Insert professional assessment here
+
 ## CS-499 Computer Science Capstone Project SNHU
 ### Table of Contents
 -[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](#code-review-for-cs-499-capstone-artifact-enhancements)<br>
