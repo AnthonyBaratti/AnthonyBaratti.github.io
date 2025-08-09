@@ -1,7 +1,7 @@
 # e-Portfolio - Anthony Baratti
 ====Contents====<br>
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
-- [CS-370 Current & Emerging Trends in CS](#cs-370-current-&-emerging-trends-in-computer-science-artificial-intelligence)
+- [CS-370 Current & Emerging Trends in CS](#cs-370-current-emerging-trends-in-computer-science-artificial-intelligence)
 - [CS-350 Emerging Systems Architecture](#cs-350-emerging-systems-architecture)
 
 ## CS-499 Computer Science Capstone Project SNHU
