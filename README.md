@@ -19,7 +19,7 @@ Insert professional assessment here
 -[Enhancement Three](#enhancement-three)<br>
 -[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 ### Project Description
-The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
+The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University. <br>
 The artifacts chosen must be enhanced to meet: 
 1. Software Engineering & Design
 2. Data Structures & Algorithms
