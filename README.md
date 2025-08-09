@@ -1,5 +1,6 @@
-# e-Portfolio - Anthony Baratti
-====Contents====<br>
+# e-Portfolio Anthony Baratti
+-[View GitHub Page](https://anthonybaratti.github.io/)<br>
+#### Contents
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
 - [CS-370 Current & Emerging Trends in CS](#cs-370-current-and-emerging-trends-in-computer-science-artificial-intelligence)
 - [CS-360 Mobile Architecture & Programming](#cs-360-mobile-architecture-and-programming)
@@ -8,11 +9,11 @@
 
 ## CS-499 Computer Science Capstone Project SNHU
 ### Table of Contents
--[View GitHub Page](https://anthonybaratti.github.io/)<br>
 -[Full Project Code Review (Binary Search Tree & MongoDB Dashboard)](#code-review-for-cs-499-capstone-artifact-enhancements)<br>
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
--[Enhancement Three](#enhancement-three)<br>
+-[Enhancement Three](#enhancement-three)
+[Back to Top](#e-portfolio-anthony-baratti)
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University
 The artifacts chosen must be enhanced to meet: 
@@ -81,7 +82,8 @@ TODO:
 - [ ] Describe C&E trends on e-portfolio
 - [ ] Add C&E trends to github page as a project
 
-[Artificial Intelligence Project](https://github.com/AnthonyBaratti/CS-370-Current-Emerging-Trends-in-CS/tree/main)
+[Artificial Intelligence Project](https://github.com/AnthonyBaratti/CS-370-Current-Emerging-Trends-in-CS/tree/main)<br>
+[Back to Top](#e-portfolio-anthony-baratti)
 
 ## CS-360 Mobile Architecture and Programming
 TODO:
@@ -90,7 +92,8 @@ TODO:
 - [ ] Describe Mobile A&P on e-portfolio
 - [ ] Add Mobile A&P to github page as a project
 
-[Mobile Architecture Project](https://github.com/AnthonyBaratti/CS-360-Mobile-Architecture-Programming)
+[Mobile Architecture Project](https://github.com/AnthonyBaratti/CS-360-Mobile-Architecture-Programming)<br>
+[Back to Top](#e-portfolio-anthony-baratti)
 
 ## CS-350 Emerging Systems Architecture
 TODO:
@@ -99,7 +102,8 @@ TODO:
 - [ ] Describe emerging systems on e-portfolio
 - [ ] Add emerging systems to github page as a project
 
-[Micro-Controller Project](https://github.com/AnthonyBaratti/CS-350-Emerging-Systems-Architecture)
+[Micro-Controller Project](https://github.com/AnthonyBaratti/CS-350-Emerging-Systems-Architecture)<br>
+[Back to Top](#e-portfolio-anthony-baratti)
 
 ## CS-320 Software Testing
 TODO:
@@ -108,5 +112,6 @@ TODO:
 - [ ] Describe software testing on e-portfolio
 - [ ] Add software testing to github page as a project
 
-[Software Testing Project](https://github.com/AnthonyBaratti/CS-320-Software-Testing)
+[Software Testing Project](https://github.com/AnthonyBaratti/CS-320-Software-Testing)<br>
+[Back to Top](#e-portfolio-anthony-baratti)
 
