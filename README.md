@@ -73,6 +73,7 @@ from the Binary Search Tree list.
 - Enhanced BinarySearchTree C++ Program with user functionality <br>
 - README file <br>
 - Artifact Enhancement Narrative
+  - Outcomes met by enhancement in section 3
 
 ### ENHANCEMENT TWO
 #### Data Structures & Algorithms
@@ -88,6 +89,7 @@ while deletes and inserts are being performed.
 - Enhanced BinarySearchTree C++ Program with self-balancing algorithms <br>
 - README file <br>
 - Artifact Enhancement Narrative
+  - - Outcomes met by enhancement in section 3
 
 ### ENHANCEMENT THREE
 #### Databases
