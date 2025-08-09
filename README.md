@@ -73,8 +73,7 @@ from the Binary Search Tree list.
 - README file <br>
 - Artifact Enhancement Narrative
 
-### ENHANCEMENT TWO
-#### Data Structures & Algorithms
+### ENHANCEMENT TWO - <small> Data Structures & Algorithms</small>
 This enhancement takes the Binary Search Tree one step further. The added user functionality could
 destabilize the tree (making it unbalanced, or "heavy"), degrading the search time complexity from 
 O(log n) to O(n). Creating self-balancing algorithms helps maintain the search time complexity at O(log n)
@@ -88,8 +87,7 @@ while deletes and inserts are being performed.
 - README file <br>
 - Artifact Enhancement Narrative
 
-### ENHANCEMENT THREE
-#### Databases
+### ENHANCEMENT THREE - <small> Databases</small>
 This enhancement takes a user dashboard for filtering animal types and displaying them in a data table with a selectable  
 row. The filtered data is also displayed in a pie chart as well as a geo-location interactive map. The original artifact  
 uses CRUD operations with MongoDB via two python scripts, one for the CRUD operations and one for the Dash layout. The  
