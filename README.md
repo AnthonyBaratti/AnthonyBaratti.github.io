@@ -25,6 +25,29 @@ The artifacts chosen must be enhanced to meet:
 2. Data Structures & Algorithms
 3. Databases
 
+The artifacts must also meet the course outcomes:
+1.  Employ strategies for building collaborative environments that enable 
+diverse audiences to support organizational decision-making in the field of 
+computer science.  
+
+2.	Design, develop, and deliver professional-quality oral, written, and 
+visual communications that are coherent, technically sound, and appropriately 
+adapted to specific audiences and contexts.  
+
+3.	Design and evaluate computing solutions that solve a given problem 
+using algorithmic principles and computer science practices and standards 
+appropriate to its solution while managing the trade-offs involved in design 
+choices.  
+
+4.	Demonstrate an ability to use well-founded and innovative techniques, 
+skills, and tools in computing practices for the purpose of implementing computer 
+solutions that deliver value and accomplish industry-specific goals.
+
+5.	Develop a security mindset that anticipates adversarial exploits 
+in software architecture and designs to expose potential vulnerabilities, 
+mitigate design flaws, and ensure privacy and enhanced security of data and 
+resources.  
+
 Two artifacts were chosen to perform these enhancements:
 1. Binary Search Tree conversion into an AVL self-balancing tree with added user functionality
 2. Animal Shelter Dashboard using MongoDB and Python script conversion to SQLite
