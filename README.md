@@ -80,7 +80,7 @@ TODO:
 - [x] Add C&E Trends to e-portfolio
 - [ ] Describe C&E trends on e-portfolio
 - [ ] Add C&E trends to github page as a project
-<br>  
+
 [Artificial Intelligence Project](https://github.com/AnthonyBaratti/CS-370-Current-Emerging-Trends-in-CS/tree/main)
 
 ## CS-360 Mobile Architecture and Programming
@@ -89,7 +89,7 @@ TODO:
 - [x] Add Mobile A&P to e-portfolio
 - [ ] Describe Mobile A&P on e-portfolio
 - [ ] Add Mobile A&P to github page as a project
-<br>  
+
 [Mobile Architecture Project](https://github.com/AnthonyBaratti/CS-360-Mobile-Architecture-Programming)
 
 ## CS-350 Emerging Systems Architecture
@@ -98,7 +98,7 @@ TODO:
 - [x] Add Emerging Systems to e-portfolio
 - [ ] Describe emerging systems on e-portfolio
 - [ ] Add emerging systems to github page as a project
-<br>  
+
 [Micro-Controller Project](https://github.com/AnthonyBaratti/CS-350-Emerging-Systems-Architecture)
 
 ## CS-320 Software Testing
@@ -107,6 +107,6 @@ TODO:
 - [x] Add Software testing to e-portfolio
 - [ ] Describe software testing on e-portfolio
 - [ ] Add software testing to github page as a project
-<br>  
+
 [Software Testing Project](https://github.com/AnthonyBaratti/CS-320-Software-Testing)
 
