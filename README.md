@@ -1,7 +1,7 @@
 # e-Portfolio - Anthony Baratti
 ====Contents====<br>
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
-- [CS-370 Current & Emerging Trends in CS](#cs-370-current-&-emerging-trends-in-computer-science-(artificial-intelligence))
+- [CS-370 Current & Emerging Trends in CS](#cs-370-current-and-emerging-trends-in-computer-science-(artificial-intelligence))
 - [CS-350 Emerging Systems Architecture](#cs-350-emerging-systems-architecture)
 
 ## CS-499 Computer Science Capstone Project SNHU
@@ -72,7 +72,7 @@ enhancement will convert the database from online MongoDB to offline local stora
 - Artifact Enhancement Narrative<br>
 - Grazioso Salvare Application v1.0 (dist.zip)
 
-## CS-370 Current & Emerging Trends in Computer Science (Artificial Intelligence)
+## CS-370 Current and Emerging Trends in Computer Science (Artificial Intelligence)
 TODO:
 - [ ] Refine C&E trends page
 - [x] Add C&E Trends to e-portfolio
