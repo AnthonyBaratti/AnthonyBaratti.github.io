@@ -17,6 +17,7 @@ Insert professional assessment here
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
 -[Enhancement Three](#enhancement-three)<br>
+-[Course Outcome Completion](#course-outcome-completion)<br>
 
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University. <br>
@@ -107,6 +108,10 @@ enhancement will convert the database from online MongoDB to offline local stora
 - Artifact Enhancement Narrative<br>
 - Grazioso Salvare Application v1.0 (dist.zip)<br>
 
+### Course Outcome Completion
+#### Enhancement One
+#### Enhancement Two
+#### Enhancement Three
 [Final Artifact Update](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Final%20Artifact%20Update.pdf)  
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
