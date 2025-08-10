@@ -17,6 +17,7 @@
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
 -[Enhancement Three](#enhancement-three)<br>
+-[Course Outcome Completion](#course-outcome-completion)<br><br>
 
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University. <br>
