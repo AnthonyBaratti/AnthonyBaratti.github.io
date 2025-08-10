@@ -17,7 +17,6 @@
 -[Enhancement One](#enhancement-one)<br>
 -[Enhancement Two](#enhancement-two)<br>
 -[Enhancement Three](#enhancement-three)<br>
--[Course Outcome Completion](#course-outcome-completion)<br>
 
 ### Project Description
 The project requires 3 enhancements of artifacts from the software engineering program at Southern New Hampshire University. <br>
@@ -47,7 +46,8 @@ solutions that deliver value and accomplish industry-specific goals.
 5.	Develop a security mindset that anticipates adversarial exploits 
 in software architecture and designs to expose potential vulnerabilities, 
 mitigate design flaws, and ensure privacy and enhanced security of data and 
-resources.  
+resources.<br><br>
+[Course Outcome Completion](#course-outcome-completion)<br><br>
 
 Two artifacts were chosen to perform these enhancements:
 1. Binary Search Tree conversion into an AVL self-balancing tree with added user functionality
