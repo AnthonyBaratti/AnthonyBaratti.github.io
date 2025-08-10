@@ -1,5 +1,5 @@
 # e-Portfolio Anthony Baratti
--<a href="https://anthonybaratti.github.io/" target="_blank">View GitHub Page</a>
+- <a href="https://anthonybaratti.github.io/" target="_blank">View GitHub Page</a>
 #### Contents
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
 - [CS-370 Current & Emerging Trends in CS](#cs-370-current-and-emerging-trends-in-computer-science-artificial-intelligence)
