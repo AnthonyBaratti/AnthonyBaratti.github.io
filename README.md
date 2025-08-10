@@ -9,7 +9,7 @@
 
 <br><br>
 ## Professional Assessment
-[Professional Self-Assessment](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Professional%20Self%20Assessment.pdf)
+[Professional Self-Assessment](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Professional%20Self%20Assessment.pdf)(pdf)
 
 ## CS-499 Computer Science Capstone Project SNHU
 ### Capstone Table of Contents
