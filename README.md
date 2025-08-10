@@ -109,6 +109,7 @@ enhancement will convert the database from online MongoDB to offline local stora
 - Grazioso Salvare Application v1.0 (dist.zip)<br>
 
 ### Course Outcome Completion
+[Review Course Outcome List](#project-description)
 #### Enhancement One - Binary Search Tree User Functionality
 ====Course Outcomes Achieved====<br>
 (1). Being able to articulate  the features advantages and disadvantages (such as search time complexity vs. overhead) between the data structures (BST vs. AVL) can help support decision-making in the computer science field. For example, an AVL tree requires more overhead (extra resources due to more work being performed), and is useful if there are a lot of adding and deleting of nodes, whereas a standard BST is useful for quick searches if it is prebalanced and will not be modified (adding or deleting nodes). Since we will be adding user functionality to accomodate usefulness, these comparisons must be addressed.<br><br>
