@@ -13,8 +13,8 @@
 [Professional Self-Assessment](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Professional%20Self%20Assessment.pdf)(pdf)
 
 ## CS-499 Computer Science Capstone Project SNHU
-Capstone Project for Southern New Hampshire University (CS-499)
-This project involved performing 3 enhancements from learned materials at SNHU onto 2 previous projects (artifacts).
+Capstone Project for Southern New Hampshire University (CS-499)<br>
+This project involved performing 3 enhancements from learned materials at SNHU onto 2 previous projects (artifacts). <br><br>
 [See Capstone Project Navigation](https://github.com/AnthonyBaratti/CS499CapstoneProject/tree/main)
 
 [Final Artifact Update](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Final%20Artifact%20Update.pdf)  
