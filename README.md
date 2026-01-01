@@ -140,7 +140,7 @@ enhancement will convert the database from online MongoDB to offline local stora
 ## Inventory Management Light
 A lightweight inventory management web application built using HTML, CSS, and basic JavaScript.
 
-[Artificial Intelligence Project](https://github.com/AnthonyBaratti/InventoryManagementLight/tree/main)<br>
+[Inventory Management Web Application](https://github.com/AnthonyBaratti/InventoryManagementLight/tree/main)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-370 Current and Emerging Trends in Computer Science (Artificial Intelligence)
