@@ -15,7 +15,8 @@
 ## CS-499 Computer Science Capstone Project SNHU
 Capstone Project for Southern New Hampshire University (CS-499)<br>
 This project involved performing 3 enhancements from learned materials at SNHU onto 2 previous projects (artifacts). <br><br>
-[See SNHU Computer Science Capstone Project](https://github.com/AnthonyBaratti/CS499CapstoneProject/tree/main)
+
+[See SNHU Computer Science Capstone Project](https://github.com/AnthonyBaratti/CS499CapstoneProject/tree/main)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## Inventory Management Light
