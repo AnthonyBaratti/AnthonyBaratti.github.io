@@ -2,6 +2,7 @@
 - [View Github Page](https://anthonybaratti.github.io/)
 #### Contents
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
+- [Inventory Management Light](#Inventory-Management-Light)
 - [CS-370 Current & Emerging Trends in CS](#cs-370-current-and-emerging-trends-in-computer-science-artificial-intelligence)
 - [CS-360 Mobile Architecture & Programming](#cs-360-mobile-architecture-and-programming)
 - [CS-350 Emerging Systems Architecture](#cs-350-emerging-systems-architecture)
@@ -134,6 +135,12 @@ enhancement will convert the database from online MongoDB to offline local stora
 (5). By scripting the SQL clause format into CRUD operations appropriately (such as “?” as value placeholders), we can mitigate any potential for SQL injection. While the data being entered is predefined (i.e., radio buttons prevent users from directly inputting text), the appropriate security measure of using placeholders to build the initial table showcases security awareness. Furthermore, keeping the database localized (saved as a .db file), we can restrict access from external sources. This achieves a security mindset for SQLite3 conversion. Also, a test script has been provided to ensure the CRUD operations work as intended, testing the application for complete functionality of the read function on the dashboard. This helps reveal and fix any bugs using the errors and callbacks developer tab (in the web browser), as well as monitoring the GET/POST procedures revealed in the command window during operation.<br><br>
 
 [Final Artifact Update](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Final%20Artifact%20Update.pdf)  
+[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
+
+## Inventory Management Light
+A lightweight inventory management web application built using HTML, CSS, and basic JavaScript.
+
+[Artificial Intelligence Project](https://github.com/AnthonyBaratti/InventoryManagementLight/tree/main)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-370 Current and Emerging Trends in Computer Science (Artificial Intelligence)
