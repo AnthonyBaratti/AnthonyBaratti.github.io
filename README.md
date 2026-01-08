@@ -1,5 +1,5 @@
 # e-Portfolio Anthony Baratti
-- [View Github Page](https://anthonybaratti.github.io/)
+- [View Github Page (user friendly navigation)](https://anthonybaratti.github.io/)
 #### Contents
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
 - [Inventory Management Light](#Inventory-Management-Light)
