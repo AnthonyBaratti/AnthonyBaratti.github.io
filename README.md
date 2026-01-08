@@ -32,11 +32,7 @@ A lightweight inventory management web application built using HTML, CSS, and ba
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-370 Current and Emerging Trends in Computer Science (Artificial Intelligence)
-TODO:
-- [ ] Refine C&E trends page
-- [x] Add C&E Trends to e-portfolio
-- [ ] Describe C&E trends on e-portfolio
-- [ ] Add C&E trends to github page as a project
+A project build to use Deep Q-Learning to train an agent to find a correct path through a 2 dimensional maze, using rewards and state based actions/decisions.
 
 [Artificial Intelligence Project](https://github.com/AnthonyBaratti/CS-370-Current-Emerging-Trends-in-CS/tree/main)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
