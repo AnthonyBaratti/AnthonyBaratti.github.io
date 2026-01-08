@@ -38,11 +38,7 @@ A project built to use Deep Q-Learning to train an agent to find a correct path 
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-360 Mobile Architecture and Programming
-TODO:
-- [ ] Refine Mobile A&P systems page
-- [x] Add Mobile A&P to e-portfolio
-- [ ] Describe Mobile A&P on e-portfolio
-- [ ] Add Mobile A&P to github page as a project
+An Android inventory management app built in Java using SQLite. The app supports user authentication, user-specific inventory items, full CRUD operations, and SMS permission handling. Inventory items are displayed using RecyclerView and persisted locally.
 
 [Mobile Architecture Project](https://github.com/AnthonyBaratti/CS-360-Mobile-Architecture-Programming)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
