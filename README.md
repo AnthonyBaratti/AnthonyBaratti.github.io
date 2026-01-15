@@ -34,6 +34,11 @@ A lightweight inventory management web application built using HTML, CSS, and ba
 
 ## CS-465 Full Stack Development
 
+A full stack web application built using MEAN (Mongo DB, Express, Angular, and Node.js). It provides a front-end user interface connected to a backend administrator dashboard that allows CRUD operations for a trip destination website called Travler. Focus of the project was on backend development (CRUD operations, authentication/authorization, and database exploration tools such as MongoDB Compass and Postman).
+
+[Full Stack Development Project](http://github.com/AnthonyBaratti/CS-465-Full-Stack-Development)<br>
+[Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
+
 ## CS-370 Current and Emerging Trends in Computer Science (Artificial Intelligence)
 A project built to use Deep Q-Learning to train an agent to find a correct path through a 2 dimensional maze, using rewards and state based actions/decisions.
 
