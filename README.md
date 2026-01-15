@@ -18,7 +18,8 @@ Capstone Project for Southern New Hampshire University (CS-499)<br>
 This project involved performing 3 enhancements from learned materials at SNHU onto 2 previous projects (artifacts). <br><br>
 
 Artifact 1: Binary Search Tree <br>
-Enhancements: (1). Add user functionality to add and delete courses into a binary search tree. (2). Convert the tree to a self-balancing tree to preserve search times.<br><br>
+Enhancements: (1). Add user functionality to add and delete courses into a binary search tree.<br>
+(2). Convert the tree to a self-balancing tree to preserve search times.<br><br>
 
 Artifact 2: Animal Shelter Dashboard <br>
 Enhancements: Convert the dashboard database from MongoDB to SQLite (local database).<br>
