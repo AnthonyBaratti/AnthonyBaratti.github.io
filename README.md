@@ -24,6 +24,7 @@ Enhancements:<br>
 
 Artifact 2: Animal Shelter Dashboard <br>
 Enhancements: Convert the dashboard database from MongoDB to SQLite (local database).<br>
+Also created a .exe file that can be downloaded and run locally (shippable product)
 
 [See SNHU Computer Science Capstone Project](https://github.com/AnthonyBaratti/CS499CapstoneProject/tree/main)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
