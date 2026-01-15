@@ -3,6 +3,7 @@
 #### Contents
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
 - [Inventory Management Light](#Inventory-Management-Light)
+- [CS-465 Full Stack Development](#cs-465-Full-Stack-Development)
 - [CS-370 Current & Emerging Trends in CS](#cs-370-current-and-emerging-trends-in-computer-science-artificial-intelligence)
 - [CS-360 Mobile Architecture & Programming](#cs-360-mobile-architecture-and-programming)
 - [CS-350 Emerging Systems Architecture](#cs-350-emerging-systems-architecture)
@@ -30,6 +31,8 @@ A lightweight inventory management web application built using HTML, CSS, and ba
 
 [Inventory Management Web Application](https://github.com/AnthonyBaratti/InventoryManagementLight/tree/main)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
+
+## CS-465 Full Stack Development
 
 ## CS-370 Current and Emerging Trends in Computer Science (Artificial Intelligence)
 A project built to use Deep Q-Learning to train an agent to find a correct path through a 2 dimensional maze, using rewards and state based actions/decisions.
