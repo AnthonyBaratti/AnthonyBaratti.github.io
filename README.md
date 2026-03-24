@@ -1,6 +1,7 @@
 # e-Portfolio Anthony Baratti
 - [View Github Page (user friendly navigation)](https://anthonybaratti.github.io/)
 #### Contents
+- [Professional Documents](#professsional-documents)
 - [CS-499 Computer Science Capstone Project SNHU](#cs-499-computer-science-capstone-project-snhu)
 - [Inventory Management Light](#Inventory-Management-Light)
 - [CS-465 Full Stack Development](#cs-465-Full-Stack-Development)
@@ -10,8 +11,9 @@
 - [CS-320 Software Testing](#cs-320-software-testing)
 
 <br><br>
-## Professional Assessment
-[Professional Self-Assessment](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Professional%20Self%20Assessment.pdf)(pdf)
+## Professional Documents
+[Professional Self-Assessment](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Professional%20Self%20Assessment.pdf)
+[SNHU Transcript]
 
 ## CS-499 Computer Science Capstone Project SNHU
 Capstone Project for Southern New Hampshire University (CS-499)<br>
