@@ -13,7 +13,7 @@
 <br><br>
 ## Professional Documents
 [Professional Self-Assessment](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Professional%20Self%20Assessment.pdf)
-[SNHU Transcript]
+[SNHU Transcript](https://github.com/AnthonyBaratti/AnthonyBaratti.github.io/blob/main/Redacted_Transcript.pdf)
 
 ## CS-499 Computer Science Capstone Project SNHU
 Capstone Project for Southern New Hampshire University (CS-499)<br>
