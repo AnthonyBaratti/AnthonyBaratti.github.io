@@ -57,7 +57,7 @@ An Android inventory management app built in Java using SQLite. The app supports
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-350 Emerging Systems Architecture
-A project built using C Programming language. Uses a Texas Instrument CC3220S Microcontroller to mock the programming for an in home thermostat. Uses statemachine architecture to check the state of the system for button pushes, display accuracy, and thermostat readings.
+A project built using C Programming language. Uses a Texas Instrument CC3220S Microcontroller to mock the programming for an in home thermostat. Uses state machine architecture to check the state of the system for button pushes, display accuracy, and thermostat readings.
 
 [Micro-Controller Project](https://github.com/AnthonyBaratti/CS-350-Emerging-Systems-Architecture)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
