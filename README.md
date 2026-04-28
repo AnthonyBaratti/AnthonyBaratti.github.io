@@ -63,11 +63,9 @@ A project built using C Programming language. Uses a Texas Instrument CC3220S Mi
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
 
 ## CS-320 Software Testing
-TODO:
-- [ ] Refine Software testing page
-- [x] Add Software testing to e-portfolio
-- [ ] Describe software testing on e-portfolio
-- [ ] Add software testing to github page as a project
+This project demonstrates Java service-layer development and unit testing with JUnit. It containes three independent service modules: Contact Service, Task Service, and Appointment Service.
+
+Each module creates objects with specific validation rules, stores them in an in-memory list (in-memory used over database for simplicity of testing purposes), and includes JUnit tests to verify that business requirement are met.
 
 [Software Testing Project](https://github.com/AnthonyBaratti/CS-320-Software-Testing)<br>
 [Back to e-Portfolio Contents](#e-portfolio-anthony-baratti)
